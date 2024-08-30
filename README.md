@@ -34,7 +34,7 @@ I'm a **Software Developer**, **Data Analyst**, and **Web App Developer** with a
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
 
 ## GitHub Stats:
-![Shaheer Khan Qureshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Shaheer Khan Qureshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaheerkhanqureshi&show_icons=true&theme=radical)
 
 ## Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerkhanqureshi&layout=compact&theme=radical)
