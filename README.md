@@ -1,12 +1,12 @@
 # Hi there, I'm Shaheer Khan Qureshi! 👋
 
-I'm a **Software Engineer** with a strong foundation in **web development**, **data analysis**, and **machine learning**.
+I'm a **Software Developer**, **Data Analyst**, and **Web App Developer** with a strong foundation in **web development**, **data analysis**, and **machine learning**.
 
-## UX Designer and Developer 🦄
+## Software Developer and Data Analyst 💻
 
 - 🌱 Always eager to learn new technologies and methodologies.
 - 📚 Always finding time to expand my knowledge and expertise.
-- ⚡ About me: A passionate and results-driven Software Engineer with a deep understanding of both front-end and back-end development.
+- ⚡ About me: A passionate and results-driven professional with a deep understanding of both front-end and back-end development, as well as data-driven decision-making.
 
 ## Connect with me:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shaheerkohistani)
