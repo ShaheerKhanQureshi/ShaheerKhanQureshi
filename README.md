@@ -1,40 +1,55 @@
 # Hi there, I'm Shaheer Khan Qureshi! 👋
 
-I'm a **Software Developer**, **Data Analyst**, and **Web App Developer** with a strong foundation in **web development**, **data analysis**, and **machine learning**.
+## Software Engineer | Web Development | Data Science
 
-## Software Developer and Data Scientist 💻
+🔹 **Software Engineer** with a focus on building scalable and efficient applications.
 
-- 🌱 Always eager to learn new technologies and methodologies, especially in the fields of software development and data science.
-- 📚 Committed to expanding my knowledge and staying current with the latest industry trends.
-- ⚡ About me: A passionate and results-driven professional with deep expertise in both front-end and back-end development, data analysis, and machine learning. I thrive on solving complex problems and creating robust, user-friendly applications.
+🔹 **Web Developer** skilled in creating responsive and user-friendly websites using modern technologies.
 
-## Connect with me:
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shaheerkohistani)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaheerkhanqureshi/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Shaheer.khan.001)
+🔹 **Python Enthusiast** always learning and expanding my knowledge of Python for data science and automation.
 
-## Languages, Tools, and Libraries:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+🔹 **Java Developer** experienced in building robust applications with Java.
 
-### Data Science & Machine Learning:
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-0095D5?style=flat&logo=matplotlib&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+🔹 **WordPress Developer** proficient in customizing and optimizing WordPress sites for various needs.
 
-## GitHub Stats:
-![Shaheer Khan Qureshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaheerkhanqureshi&show_icons=true&theme=radical)
+🔹 **Bot Builder** leveraging automation tools to build intelligent bots for diverse applications.
 
-## Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerkhanqureshi&layout=compact&theme=radical)
+🔹 **Data Analyst** skilled in transforming raw data into actionable insights.
+
+🔹 **Data Application Developer** focused on creating applications that drive data-driven decision-making.
+
+---
+
+### 🌟 Technologies & Tools I Use:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats:
+![Shaheer Khan Qureshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaheerKhanQureshi&show_icons=true&theme=radical)
+
+### 🔥 Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaheerKhanQureshi&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaheerkhanqureshi/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/shaheerkohistani)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Shaheer.khan.001)
+
+---
+
+💡 **"Strive not to be a success, but rather to be of value."** – Albert Einstein
+
