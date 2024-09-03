@@ -39,8 +39,6 @@
 ### 📊 GitHub Stats:
 ![Shaheer Khan Qureshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaheerKhanQureshi&show_icons=true&theme=radical)
 
-### 🔥 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaheerKhanQureshi&layout=compact&theme=radical)
 
 ---
 
