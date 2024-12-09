@@ -15,10 +15,15 @@ I believe that the most important thing in tech is **innovation**, and I always 
 
 ### 🔹 **What I Do**:
 As a **Software Engineer**, I have hands-on experience with both back-end and front-end technologies. Here’s a quick summary of what I specialize in:
+
 - **Full-Stack Web Development**: I create dynamic, responsive websites and web applications from scratch, ensuring a seamless user experience. 🌐
 - **Data Science**: Using data to uncover insights, optimize processes, and create models that drive decision-making. 📊
-- **Automation**: Leveraging Python and other tools to automate repetitive tasks and streamline processes. 🔧
+- **Automation**: Leveraging **Python** and other tools to automate repetitive tasks and streamline processes. 🔧
 - **Bots**: I design and build intelligent bots for customer service, social media automation, and task automation. 🤖
+- **Network Security**: Passionate about protecting networks and systems from potential threats. I specialize in securing communication channels, implementing firewalls, and performing vulnerability assessments to ensure the integrity and security of infrastructure. 🔒
+- **Cybersecurity**: With a strong interest in **ethical hacking**, I dive deep into penetration testing and security audits to identify vulnerabilities and enhance the security posture of web applications and networks. I also stay updated with the latest trends in **cyber threats** and **data breaches**. 🛡️
+- **Ethical Hacking**: I leverage my knowledge of penetration testing and network security to ethically find and fix vulnerabilities. Whether it’s web apps, servers, or networks, I approach security with a mindset of improvement, ensuring safe and secure environments. 💻
+
 
 ---
 
