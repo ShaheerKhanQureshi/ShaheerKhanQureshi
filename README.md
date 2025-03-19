@@ -93,9 +93,11 @@ When I’m not coding, I’m exploring **new tech trends**, crafting **automatio
 
 ## 📫 Let’s Connect:
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00B0B9?style=for-the-badge&logo=web&logoColor=white)](https://shaheerkhanqureshi.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaheerkhanqureshi/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shaheerkohistani)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Shaheer.khan.001)
+
 
 ---
 
