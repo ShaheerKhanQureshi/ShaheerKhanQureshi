@@ -20,7 +20,7 @@ When I’m not coding, I’m exploring **new tech trends**, crafting **automatio
 ---
 
 ## 🔹 What I Do:
-- 🌐 **Full-Stack Development**: Build responsive, dynamic web applications with modern frameworks.
+- 🌐 **Backend Development**: Build responsive, dynamic web applications with modern frameworks.
 - 📊 **Data Science**: Extract insights, create models, and visualize trends for better decisions.
 - 🤖 **Bot Development**: Automate tasks for efficiency using Python.
 - 🔒 **Network Security**: Secure systems, perform vulnerability checks, and protect data.
@@ -51,12 +51,12 @@ When I’m not coding, I’m exploring **new tech trends**, crafting **automatio
 ---
 
 ## 🧠 Skills Snapshot:
-- 💻 **Web Development**: React, Flask, Node.js, Bootstrap, Tailwind
+- 💻 **Web Development**: Express, Flask, Node.js, Django, Nest.js
 - ⚙️ **Back-End**: Java (Spring Boot), Python, TypeScript, Express.js
 - 📈 **Data Tools**: Pandas, NumPy, Matplotlib, SQL
 - 🤖 **Bots & Automation**: Python scripting for task automation
 - 🔐 **Security**: Network security audits, penetration testing, ethical hacking
-- 🌐 **Databases**: MySQL, PostgreSQL, SQLite
+- 🌐 **Databases**: MySQL, PostgreSQL, MongoDB
 
 ---
 
